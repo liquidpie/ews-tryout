@@ -19,3 +19,13 @@ You can find examples of following operations on an Exchange mailbox
 - Move mails to a folder
 - Delete a mail
 - Create a folder
+
+### Maven dependency of EWS Api
+
+```
+<dependency>
+      <groupId>com.microsoft.ews-java-api</groupId>
+      <artifactId>ews-java-api</artifactId>
+      <version>2.0</version>
+</dependency>
+```
